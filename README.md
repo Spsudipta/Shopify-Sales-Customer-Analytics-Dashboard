@@ -3,7 +3,7 @@
 
 ## 📷 Dashboard Preview
 <img width="1278" height="754" alt="image" src="https://github.com/user-attachments/assets/e983d53a-d333-47c8-808d-46d254888d8d" />
----
+
 ## 📌 Project Overview
 This project showcases an **interactive Power BI dashboard** built to analyze **Shopify Sales and Customer Behavior**. The dashboard helps track revenue performance, customer purchase patterns, sales distribution, and payment gateway trends to support business decision-making.
 

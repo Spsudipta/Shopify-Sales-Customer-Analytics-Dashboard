@@ -1,5 +1,9 @@
 # 🛍 Shopify Sales & Customer Analytics Dashboard (Power BI)
+---
 
+## 📷 Dashboard Preview
+<img width="1278" height="754" alt="image" src="https://github.com/user-attachments/assets/e983d53a-d333-47c8-808d-46d254888d8d" />
+---
 ## 📌 Project Overview
 This project showcases an **interactive Power BI dashboard** built to analyze **Shopify Sales and Customer Behavior**. The dashboard helps track revenue performance, customer purchase patterns, sales distribution, and payment gateway trends to support business decision-making.
 
@@ -89,16 +93,6 @@ E-commerce platforms like Shopify generate large volumes of sales and customer d
 - **Excel / CSV Dataset** – Data Source  
 - **Power Query** – Data Cleaning & Transformation  
 - **DAX** – Data Modeling and Measures  
-
----
-
-
----
-
-## 📷 Dashboard Preview
-<img width="1278" height="754" alt="image" src="https://github.com/user-attachments/assets/e983d53a-d333-47c8-808d-46d254888d8d" />
-
-
 ---
 
 ## 🚀 Business Insights Generated
